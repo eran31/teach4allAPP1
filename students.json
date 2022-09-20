@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6305005fbdd04d6adc50c28e"
+  },
+  "name": "‪eran shimony‬‏",
+  "email": "eranshimony1@gmail.com",
+  "grade": 1,
+  "password": "1222",
+  "phone": "0524641343",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630517f57d67bc9a631f56d3"
+  },
+  "name": "‪eran shimony‬‏",
+  "email": "eranshimony1@gmail.com",
+  "grade": 1,
+  "password": "xxxa",
+  "phone": "0524641343",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6307b028007a00273b8236aa"
+  },
+  "name": "‪eran shimony‬‏",
+  "email": "eranshimony1@gmail.com",
+  "grade": 3,
+  "password": "ani roze",
+  "phone": "0524641343",
+  "__v": 0
+}]

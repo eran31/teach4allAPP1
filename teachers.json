@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "630514d1e57ac37914179b27"
+  },
+  "name": "shay zohar",
+  "email": "shay_zohar84@gmail.com",
+  "phone": "0523454445",
+  "password": "ddsds",
+  "rollno": null,
+  "__v": 0,
+  "subjects": []
+},{
+  "_id": {
+    "$oid": "63051e484ffd85097238cef2"
+  },
+  "name": "shay zohar",
+  "email": "shay_zohar84@gmail.com",
+  "phone": "0523454445",
+  "password": "dsdsd",
+  "aboutMe": "helloo",
+  "__v": 0,
+  "subjects": [
+    "English"
+  ]
+},{
+  "_id": {
+    "$oid": "63051ed8dc0a842b3ec09e9d"
+  },
+  "name": "shay zohar",
+  "email": "shay_zohar84@gmail.com",
+  "phone": "0523454445",
+  "password": "4343",
+  "aboutMe": "herllo",
+  "subjects": [
+    "Math",
+    "English",
+    "Computers"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6307b03f007a00273b8236ae"
+  },
+  "name": "shay zohar",
+  "email": "shay_zohar84@gmail.com",
+  "phone": "0523454445",
+  "password": "chicool1984",
+  "aboutMe": "dsdsds",
+  "subjects": [
+    "Math"
+  ],
+  "__v": 0
+}]
