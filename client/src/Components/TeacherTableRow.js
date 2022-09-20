@@ -11,7 +11,7 @@ const deleteTeacher = () => {
 	axios
 	.delete(
 //"http://localhost:5000/teachers/delete-teacher/" + _id)
-"http://localhost:10000/teachers/delete-teacher/" + _id)
+"http://api/teachers/delete-teacher/" + _id)
 
 	.then((res) => {
 		if (res.status === 200) {

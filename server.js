@@ -67,8 +67,8 @@ extended: true
 app.use(cors());
 app.use('/students', studentRoute)
 app.use('/teachers',teacherRoute)
-app.use('/api/teachers',teacherRoute);
-app.use('/api/students',studentRoute);
+//app.use('/api/teachers',teacherRoute);
+//app.use('/api/students',studentRoute);
 // PORT
 const port = process.env.PORT || 10000;
 //const port =10000;
