@@ -9,7 +9,8 @@ const { _id, name, email, grade, password, phone } = props.obj;
 const deleteStudent = () => {
 	axios
 	.delete(
-"http://localhost:5000/students/delete-student/" + _id)
+//"http://localhost:5000/students/delete-student/" + _id)
+"http://localhost:10000/students/delete-student/" + _id)
 	.then((res) => {
 		if (res.status === 200) {
 		alert("Student successfully deleted");

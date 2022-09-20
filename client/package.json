@@ -41,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://lochalhost:5000"
+  "proxy": "http://lochalhost:10000"
 }

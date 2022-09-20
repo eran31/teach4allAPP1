@@ -22,7 +22,8 @@ const [formValues, setFormValues] = useState({
 const onSubmit = (studentObject) => {
 	axios
 	.put(
-		"http://localhost:5000/students/update-student/" +
+		//"http://localhost:5000/students/update-student/" +
+		"http://localhost:10000/students/update-student/" +
 		//props.match.params.id,
 		id,
 		studentObject
@@ -41,7 +42,8 @@ const onSubmit = (studentObject) => {
 useEffect(() => {
 	axios
 	.get(
-		"http://localhost:5000/students/update-student/"
+		//"http://localhost:5000/students/update-student/"
+		"http://localhost:10000/students/update-student/"
 		//+ props.match.params.id
 		+id
 	)
