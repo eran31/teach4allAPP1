@@ -9,7 +9,7 @@ const [teachers, setTeachers] = useState([]);
 useEffect(() => {
 	axios
 	//.get("http://localhost:5000/teachers/")
-	.get("http://api/teachers/")
+	.get("https://mathapp.onrender.com/teachers/")
 	.then(({ data }) => {
 		setTeachers(data);
 	})

@@ -23,7 +23,7 @@ const onSubmit = (studentObject) => {
 	axios
 	.put(
 		//"http://localhost:5000/students/update-student/" +
-		"http://localhost:10000/students/update-student/" +
+		"https://mathapp.onrender.com/students/update-student/" +
 		//props.match.params.id,
 		id,
 		studentObject
@@ -43,7 +43,7 @@ useEffect(() => {
 	axios
 	.get(
 		//"http://localhost:5000/students/update-student/"
-		"http://localhost:10000/students/update-student/"
+		"https://mathapp.onrender.com/students/update-student/"
 		//+ props.match.params.id
 		+id
 	)
